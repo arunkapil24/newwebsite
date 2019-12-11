@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 66.73 67.04">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #e3828a;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <title>icon</title>
+  <g id="stroked_icons" data-name="stroked icons">
+    <g>
+      <polygon class="cls-1" points="1.8 57.42 30.21 29.01 38.78 37.58 33.33 43.03 33.87 50.16 25.97 50.38 25.44 58.59 18.07 58.28 18.53 65.5 1.55 65.13 1.8 57.42"/>
+      <circle class="cls-1" cx="46.91" cy="19.81" r="18.31"/>
+      <circle class="cls-1" cx="50.06" cy="17.66" r="5.08"/>
+    </g>
+  </g>
+</svg>

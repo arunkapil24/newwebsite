@@ -1,0 +1,1156 @@
+ @import url('https://fonts.googleapis.com/css?family=Merriweather+Sans:400,700,800|Montserrat:400,600,600i,700,800,900|Oswald:400,500,600,700|Roboto+Condensed:400,700|Roboto:400,500,700,900|Ubuntu+Condensed|Ubuntu:300,400,500,700&display=swap');
+ html, body {
+     height: 100%;
+     width: 100%;
+     color:#000000;
+}
+html{  scroll-behavior: smooth;}
+svg{ overflow:visible;}
+/*
+
+base pink 
+#e3828a
+
+
+*/
+ hr{
+     float:left;
+     clear:both;
+     margin-top:0;
+    margin-bottom:0;
+     border:none;
+     height:4em;
+}
+ span.bold{
+     font-weight:500;
+}
+/* ------------*** beginning of COLOR by vishnu ***----------*/
+
+
+#home-banner{
+    
+	 background-image: linear-gradient(to right, #1e3d69 , #03b6c7);
+	 
+}
+#testimonials {
+     background-image: linear-gradient( #0583b3, #03b6c7);
+	 
+}
+#wepromise, #contactus, #uniquness{
+	background: #f7f7f7;
+	
+}
+.bannercontent h1 span{ color:#d65b65 ;}
+  h2.title::after, h3.sub-heading::after, h3.sub-heading.mid::after {
+     
+	 background-color:#000 ;
+}
+  .step p{
+  border:1px solid #d85b71 ;
+  ;}
+  
+  
+ 
+
+ .testimonials-text{
+     color: #fff !important;
+}
+ .testimonial-names {
+     color: #fff !important;
+}
+
+
+.person1.last img{
+    
+     border: 4px solid #c7c7c7 ;
+}
+.button{ background:#d65b65;}
+ .button:hover{
+     background:#c74c56!important;
+}
+
+   
+	
+.step p {
+     
+	 color:#000;
+     
+}
+
+
+
+ blockquote{
+     color:#000;
+}
+ .button{
+    
+     color: #fff;
+}
+
+ 
+ .fa-facebook-square {
+     color: #3b5998;
+}
+ .fa-linkedin {
+     color: #0e76a8;
+}
+ .fa-twitter-square {
+     color: #00acee;
+}
+ .fa-instagram {
+     color: #e4405f;
+}
+
+ .nav-link:hover, .affix .nav-link:hover, .nav-link.active, .affix .nav-link.active {
+     background: none;
+     color: #d65b65 !important;
+}
+
+ .affix.navbar {
+     background: #f8f9fa !important;
+}
+ .navbar-nav .nav-link {
+     color: #f4f4f4 !important;
+}
+
+ .affix .nav-link {
+     color: #000 !important;
+}
+
+ 
+ .person1.last img{
+    -webkit-filter:none;
+    /* Safari 6.0 - 9.0 */
+     filter: none;
+     
+}
+ .person1 img {
+    -webkit-filter: grayscale(100%);
+    /* Safari 6.0 - 9.0 */
+     filter: grayscale(100%);
+     
+     
+     border: 8px solid #f7f7f7;
+     
+}
+ .person1 img:hover{
+    -webkit-filter: grayscale(0%);
+    /* Safari 6.0 - 9.0 */
+     filter: grayscale(0%);
+}
+/* ------------*** end of COLOR by vishnu ***----------*/
+/* ------------*** beginning of alignment by vishnu ***----------*/
+ p{
+     margin-bottom: 30px ;
+}
+ blockquote{
+    margin-bottom:2.5rem;
+}
+ h2 {
+     margin-bottom: 150px;
+}
+ h3 {
+     margin: 0 0 20px 0;
+}
+ .button{
+     margin: 5px;
+}
+ .bannercontent h3{
+     margin-bottom: 25px;
+}
+ .bannercontent h4{
+     margin-bottom:40px;
+}
+
+
+ .step p {
+     padding: 40px 80px;
+     margin: 0;
+}
+
+ .product-image object {
+     margin-top: 25px;
+}
+ .product-description {
+     padding: 16px;
+     margin: 0;
+}
+ .product-specs {
+     padding: 16px;
+}
+ .feature_item_text h6 {
+     margin: 0px;
+}
+ .feature_item_text p {
+     padding: 0px !important;
+}
+ h4,.feature_item_text1 h6 {
+     margin:  0;
+}
+ h5,.feature_item_text1 p {
+     padding: 0px !important;
+}
+ .testimonials-text {
+     padding: 10px;
+}
+ .testimonial-names {
+     padding: 20px;
+}
+ .person1.last img{
+     margin-bottom:30px;
+}
+ .person1.last .icons{
+     margin-top:30px;
+}
+ .person1.last .icons{
+     margin-top:30px;
+}
+ .center {
+     margin-left: auto;
+     margin-right: auto;
+}
+ .about-us {
+     margin: 20px;
+     padding: 20px;
+}
+ .person1 {
+     margin-bottom: 80px;
+     margin-left: auto;
+     margin-right: auto;
+}
+ .footer1 {
+     padding-right: 30px !important;
+}
+ #contactus h2{
+     margin-top:-4px;
+}
+ .footer{
+     margin-bottom:50px;
+}
+ .social-links a{
+     margin-right:20px;
+}
+ .footer p{
+     margin-top:-10px;
+}
+ #uniquness .card img{
+     margin-left:0;
+     margin-right:0;
+}
+ .card-text2{
+     margin-bottom:0;
+}
+ .center {
+     margin-left: auto;
+     margin-right: auto;
+     margin-bottom: auto;
+     margin-top: auto;
+}
+ .productgrid {
+     padding-right: 30px;
+     padding-left: 30px;
+     padding-top: 15px;
+     padding-bottom: 15px;
+}
+.person1 img{margin-left: auto;
+     margin-right: auto;
+     margin-bottom:20px;}
+ .person1 h4{ margin-bottom:12px;} 
+ .person1 h5{ margin-bottom:15px;} 
+
+
+
+/* ------------*** end of alignment by vishnu ***----------*/
+
+/* ------------*** beginning of font size by vishnu ***----------*/
+ html{
+     font-size:18px;
+}
+ .bannercontent h3{
+     font-size: 60px;
+}
+ h2 {
+     font-size: 3em;
+}
+
+ h3, .bigpara, .person1.last h4,  blockquote {
+     font-size: 2em;
+}
+ .fa-facebook-square, .fa-linkedin, .fa-twitter-square, .fa-instagram, .card-body h3, .testimonials-text h4{
+     font-size: 1.667em !important;
+}
+ .medpara{
+     font-size:1.333em;
+}
+ .step p,.icons .fab, .center, .icons, .person1.last h5 {
+     font-size:1.111em;
+}
+ p,  .button, .product-text, .product-text1 p, .feature_item_text h6, .feature_item_text p , .nav-link,  .bannercontent h1, .bannercontent h4{
+     font-size:1em;
+}
+ h4,h5, .feature_item_text1 h6, .feature_item_text1 p, .footer p, .testimonial-names h4, .testimonial-names h6 {
+     font-size: 0.889em;
+}
+
+/* ------------*** end of font size by vishnu ***----------*/
+/* ------------*** beginning of other font attributes by vishnu ***----------*/
+.product-image object{ width:300px;}
+ body {
+     font-family: 'Ubuntu', sans-serif;
+}
+ blockquote{
+     font-family: 'Vollkorn', serif;
+}
+ .bannercontent h4, .bannercontent h1{
+    font-family: 'Ubuntu', sans-serif;
+}
+ p{
+     line-height: 2em ;
+     font-weight: 100 ;
+}
+ blockquote{
+     text-align:left;
+}
+ h1,h2,h3,h4,h5,h6{
+}
+ h2 {
+     text-align: center;
+     font-weight:300;
+}
+ h3 {
+     font-weight: 300;
+}
+ .bigpara{
+     text-align:left;
+     line-height:2rem;
+}
+ .medpara{
+     text-align:left;
+     line-height:2.5rem;
+    margin-bottom:2rem;
+}
+ .smallpara{
+     text-align:left;
+     line-height:2rem;
+    margin-bottom:2rem;
+}
+ h2.title{
+    position:relative;
+}
+ h2.title span {
+     font-weight: 500;
+}
+ .card-body p{
+     line-height:1.667em;
+}
+ .button{
+    text-align: center;
+    text-transform: uppercase;
+     letter-spacing: 3px;
+    font-weight: 600;
+     white-space:nowrap;
+}
+ .bannercontent h1{
+    text-align:left;
+}
+ .bannercontent h3{
+     line-height: 80px;
+     text-align:left;
+     font-weight: 800;
+}
+ .bannercontent h4{
+     text-align:left;
+}
+ h3.sub-heading span{
+     font-weight:400;
+}
+ .step p {
+     line-height:1.667em;
+     font-weight:100;
+}
+ .product-text1 p {
+     font-weight: 700;
+}
+ .feature_item_text h6 {
+     font-weight: bold;
+}
+ h4,.feature_item_text1 h6 {
+     font-weight: 100;
+}
+ h5,.feature_item_text1 p {
+     font-weight: 400;
+}
+ .testimonials-text h4 {
+     font-weight: 400;
+     line-height: 1.5em;
+}
+ .testimonial-names h4{
+     font-weight:100;
+}
+ .testimonial-names h6{
+     font-weight:500;
+}
+ .person1.last h5{
+     font-weight:100;
+}
+ .icons .fab {
+     
+     text-align:center;
+}
+ .center {
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 50%;
+}
+ .icons {
+     align-items: center;
+}
+ #uniquness .card h3{
+     text-align:left;
+}
+ #uniquness .card p{
+     text-align:left;
+}
+ .our-product {
+     text-align: "left";
+}
+ .product-image {
+     text-align: center;
+}
+/* ------------*** end of of other font attributes by vishnu ***----------*/
+
+
+ *:focus {
+     outline: 0 !important;
+}
+ .navbar {
+     margin: 0px !important;
+     border: 0px !important;
+}
+ .navbar-nav {
+     background: none;
+}
+
+ .specs-row {
+     margin:100px 0 30px 0;
+}
+ .col-md-12 > .specs-row{
+     margin-top:0;
+}
+ p.align-center {
+     text-align: center;
+}
+ .carousel-caption {
+     position: relative;
+     right: 0;
+     left: 0;
+     bottom: 0;
+}
+ .carousel-inner {
+     overflow-x: hidden;
+     overflow-y: visible;
+}
+ .carousel {
+     min-height: 230px;
+}
+ .carousel-control-next, .carousel-control-prev {
+     z-index: 45;
+}
+ .carousel-control-next {
+     right: -30px;
+}
+ .carousel-control-prev {
+     left: -30px;
+}
+
+/* ------------------------------------------------------------------------- */
+ .nav-item{
+     margin:0 12px;
+}
+ .col-one-fifth {
+     padding-right: 15px;
+     padding-left: 15px;
+     width: 20%;
+}
+ ul {
+     list-style-type: none;
+     margin: 0;
+     padding: 0;
+    /* overflow: hidden;
+     */
+     background-color: #fff;
+     position: relative fixed !important;
+     top: 0;
+     width: 100%;
+}
+ li {
+     float: right;
+}
+ li a {
+     display: block;
+     color: #fff;
+     text-align: center;
+     padding: 14px 16px;
+     text-decoration: none;
+}
+/* Change the link color to #111 (black) on hover */
+ li a:hover {
+     background-color: #f7f7f7;
+}
+/* ------------------------------------------------------------------------- */
+ #home-banner {
+    
+	 
+     display: table;
+     height: 100%;
+     position: relative;
+     width: 100%;
+     background-size: cover;
+}
+#home-banner + div{ display:none;}
+ .rel {
+     position: relative;
+     height: 100%;
+}
+ .bannerimage {
+     float: left;
+     top: calc(50% + 23px);
+     position: absolute;
+     transform: translateY(-50%);
+}
+ .bannerimage object {
+     padding-left: 1px;
+     width: 100%;
+     float: left;
+}
+ .bannercontent {
+     top: calc(50% + 23px);
+     right: 0;
+     position: absolute;
+     transform: translateY(-50%);
+     padding-left: 15px;
+     padding-right: 15px;
+     padding-bottom: auto;
+}
+/* ------------------------------------------- */
+ .navbar-brand {
+     height: 62px;
+}
+ .navbar-brand img {
+     height: 100px;
+     position: relative;
+     top: -23px;
+}
+ .exploremar {
+     text-align: center;
+}
+ .button{
+    transition: all 0.5s;
+     cursor: pointer;
+     
+     border-radius: 4px;
+     box-shadow: 2px 2px 4px 0px rgba(20,68,109,0.3);
+    padding: 10px 30px;
+    border: none;
+     outline:none;
+     white-space:nowrap;
+}
+
+ .button span {
+     cursor: pointer;
+     display: inline-block;
+     position: relative;
+     transition: 0.5s;
+}
+ .button span:after {
+     content: '\00bb';
+     position: absolute;
+     opacity: 0;
+     top: 0;
+     right: -20px;
+     transition: 0.5s;
+}
+ .button:hover span {
+     padding-right: 25px;
+}
+ .button:hover span:after {
+     opacity: 1;
+     right: 0;
+}
+/* -------------------Beginning of Sections Vish-------------------------------- */
+ #about-us,#wepromise,#storyboard,#our-product {
+    padding: 120px 0 8.333em 0px;
+}
+ #uniquness{
+    padding: 5.5em 0 8.333em 0px;
+}
+ #testimonials {
+    padding: 100px 0 130px 0px;
+}
+ #wepromise {
+     
+     width: 100%;
+     text-align: center;
+}
+ #storyboard {
+     min-height: 100%;
+     width: 100%;
+     background: #ffffff;
+}
+ #uniquness {
+    
+     width: 100%;
+     min-height: auto;
+     position: relative;
+}
+ #our-product {
+     height: 100%;
+     width: 100%;
+}
+ #testimonials {
+     
+     display: table;
+     position: relative;
+     width: 100%;
+     
+}
+ #contactus {
+     
+    /* margin:20px;
+     */
+     padding:150px 0 50px 0px;
+     height: auto;
+     width: 100%;
+}
+/* -------------------End of Sections Vish-------------------------------- */
+ .mb-0{
+    padding-bottom:0 !important;
+}
+ .bannercontent *{
+     color:#fff;
+}
+ .wepromise {
+     text-align: center;
+     padding: 0px 0 0 0 
+}
+ h2.title.left{
+     text-align:left;
+}
+ h2.title.left::after{
+     left:0;
+     transform:translateX(0);
+}
+ h2.title::after {
+     content: "";
+     position: absolute;
+     left: 50%;
+     transform: translateX(-50%);
+     top: 80px;
+     height: 3px;
+     width: 50px;
+     
+     border-radius: 10px;
+}
+ h3.sub-heading::after {
+     content: "";
+     position: absolute;
+     left: 0;
+     bottom: 0;
+     height: 3px;
+     
+     border-radius: 10px;
+     width: 50px;
+}
+ h2.title.double::after {
+     top: 153px;
+}
+ h3.sub-heading{
+     position: relative;
+     padding-bottom: 20px;
+     margin-bottom: 40px;
+}
+
+ h3.sub-heading.mid{
+     text-align:center;
+     margin-bottom:80px;
+}
+ h3.sub-heading.mid::after {
+     content: "";
+     position: absolute;
+     left: 50%;
+     transform:translateX(-50%);
+     bottom: 0;
+     height: 3px;
+     border-radius: 10px;
+     width: 50px;
+}
+
+ .card {
+     transition: 0.3s;
+     width: 100;
+     border-radius: 6px;
+     border: none;
+    
+}
+ .card-body{
+     padding:4rem;
+	 border-radius:8px;
+	 box-shadow:2px 2px 6px 0px rgba(0,0,0,0.05);
+}
+ .uniqne .grid{
+     margin-bottom:30px;
+}
+ .step img {
+     height: 150px;
+     width: auto;
+     padding-top: 30px;
+}
+ .step p {
+     
+     border-radius: 30px;
+     
+}
+ .step-1, .step-2, .step-3, .step-4 {
+     margin-bottom:150px;
+}
+
+ #uniquness .card{
+     margin-bottom:30px;
+}
+ .uniquness .title {
+     position: absolute;
+     top: calc(25% - 17px);
+     -ms-transform: translate(0, -50%);
+     transform: translate(0, -50%);
+}
+ .card img {
+     height: 64px;
+     width: auto;
+     display: block;
+     margin: 0 auto 30px auto;
+}
+ .carousel-item{
+     padding:0 12%;
+     min-height:280px;
+}
+ .product-icons img {
+     height: 40px;
+     width: auto;
+}
+ .feature_item {
+     float: left;
+     width: 50%;
+     padding-right: 30px;
+     margin-bottom: 20px;
+}
+ .feature_item img {
+     float: left;
+     margin-right: 10px;
+}
+ .center {
+     display: block;
+}
+ .productgrid {
+     display: grid;
+}
+ .productborder {
+     border: 2px solid #ddd;
+     border-radius: 2px;
+     padding: 10px;
+     width: 50px;
+}
+ .product-text1 p {
+     padding: 20px;
+}
+ .product-card {
+     position:relative;
+     margin-bottom: 50px;
+}
+ .col-one-fifth:first-child .product-card::after, .col-one-fifth:nth-child(6) .product-card::after{
+    content: none;
+}
+ .product-card::after{
+    content: "";
+     height: 12px;
+     background: #cbcbcb;
+     width: 1px;
+     left: -30px;
+     top: 18px;
+     position: absolute;
+}
+ .product-card img {
+     float: left;
+     padding: 0;
+     height: 32px;
+     width: auto;
+     margin: 8px 20px 0 0;
+     background: none;
+}
+ .product-card .card-body {
+     padding: 0;
+     float: left;
+}
+ .card.product-card {
+     padding: 0;
+     height: 180px !important;
+     background: #f7f7f7;
+     float: left;
+     width: 100%;
+}
+ .card-body .product-card {
+     height: auto;
+     width: auto;
+}
+/* ------------------------------------- */
+/* carousel */
+ #quote-carousel {
+     padding: 0 10px 30px 10px;
+     margin-top: 30px;
+     text-align: center;
+}
+/* indicator position */
+ #quote-carousel .carousel-indicators {
+     right: 50%;
+     top: auto;
+     bottom: -10px;
+     margin-right: -19px;
+}
+/* indicator color */
+ #quote-carousel .carousel-indicators li {
+     background: #c0c0c0;
+}
+/* active indicator */
+ #quote-carousel .carousel-indicators .active {
+     background: #333333;
+     height: 10px;
+     width: 10px;
+     margin-bottom: 1px;
+}
+/* typography */
+ h1 {
+     text-align: center;
+     margin-bottom:40px;
+}
+/* ---------------------------------------- */
+ 
+ .carousel-indicators{
+     bottom:-40px;
+}
+ 
+
+ .person1 img {filter: grayscale(100%);
+     height: 120px;
+     border-radius: 50%;
+     display: block;    
+     
+     transition:all 300ms ease-in-out;
+}
+
+ 
+.icons > a{ display:block; text-align:center;}
+ .center {
+     display: block;
+     width: 50%;
+}
+ .icons {
+     align-items: center;
+}
+ .person1 {
+     display: block;
+}
+/*---------------**** Beginning of media query *****-----------------------*/
+
+	@media only screen and (max-width:1200px) {
+		.bannercontent h3 { font-size: 42px; line-height:52px;}
+.access .card{ margin-bottom:30px;}
+ .access .col-xl-4:last-child .card{ margin-bottom:0;}
+ 
+ 
+ .uniquness h2.title.left{ text-align:center; position:static; transform:translate(0);}
+ .uniquness h2.title.left::after{left: 50%;
+    transform: translateX(-50%);}
+	section#uniquness .card img{ margin-left:auto; margin-right:auto;}
+	section#uniquness .card h3, section#uniquness .card p{ text-align:center;}
+	
+	}
+ @media only screen and (max-width:1025px) {
+	 
+     #storyboard {
+         min-height: auto;
+    }
+     .carousel {
+         min-height: 300px;
+    }
+     .bannerimage {
+         float: left;
+         top: calc(50% + 30px) !important;
+    }
+    
+     .bannerimage {
+         position: absolute !important;
+         top: 50%;
+         transform: translateY(-50%);
+    }
+     .bannerimage object {
+         position: static;
+         height: auto;
+         width: 100%;
+         margin: 0px;
+    }
+     
+     .wepromise {
+         text-align: center;
+         
+    }
+     .wepromisecards {
+         margin-bottom: 30px;
+        /* padding: */
+    }
+     
+     #storyboard {
+         width: auto;
+         height: auto;
+    }
+     #uniquness {
+         height: auto !important;
+         width: 100%;
+    }
+     .card-text3 {
+         font-size: 20px;
+         font-weight: 400;
+    }
+     .testimonials-text h4 {
+         font-size: 24px;
+    }
+     .testimonials-text h6 {
+         font-size: 18px;
+    }
+     .about-text p {
+         font-size: 25px;
+    }
+     .person h4 {
+         font-size: 25px;
+    }
+     .person h5 {
+         font-size: 20px;
+    }
+}
+
+ @media only screen and (max-width:991px) {
+	 #home-banner{padding:0 0 100px 0;}
+	 .bannerimage, .bannercontent {
+         position: static !important;
+         transform: translate(0) !important;
+		 
+    
+    }
+	
+	.bannerimage{
+		margin-top: 150px;
+         margin-bottom: 30px;}
+     .bannerimage object {
+          width: 280px;
+    
+
+    }
+	 .card-body{ padding:60px 40px;}
+.col-one-fifth {
+    
+     width: 33.3%;
+}
+
+.col-one-fifth:first-child .product-card::after, .col-one-fifth:nth-child(4) .product-card::after, .col-one-fifth:nth-child(7) .product-card::after, .col-one-fifth:nth-child(10) .product-card::after{
+    content: none;
+}
+.col-one-fifth:nth-child(6) .product-card::after{ content:"";}
+.testimonials-text h4 {
+    font-size: 1.331em !important;
+}
+
+ }
+ @media only screen and (max-width:770px) {
+	 
+	 .col-one-fifth {
+    
+     width: 50%;
+}
+      .col-one-fifth:nth-child(2n+1) .product-card::after {
+    content: none;
+}
+.col-one-fifth:nth-child(2n) .product-card::after{
+    content: "";
+}
+	.carousel-control-prev{ left:-10px;}
+	.carousel-control-next{ right:-10px;}
+	
+     .img-wrap {
+         text-align: center;
+    }
+     
+     .uniquness {
+         margin-top: 40px;
+         margin-bottom: 40px;
+    }
+     
+     .grid .card {
+         transition: 0.3s;
+         border: none;
+    }
+     .card-text3 {
+         font-size: 18px;
+    }
+     
+     .wepromise {
+         padding-top: 10px;
+         padding-bottom: 10px;
+    }
+     .title {
+         margin-top: 0px;
+    }
+     
+     .card-text1 {
+         font-size: 22px;
+    }
+     .card-text2 {
+         font-size: 18px;
+    }
+}
+ @media only screen and (max-width:428px) {
+	 h2{font-size:1.667em;}
+	 h2.title::after{ top:50px;}
+	  h2.title.double::after, #storyboard h2.title::after{
+     top: 90px;
+}
+	 h3, .bigpara, .person1.last h4, blockquote{ font-size:1em;}
+	 p, .button, .product-text, .product-text1 p, .feature_item_text h6, .feature_item_text p, .nav-link, .bannercontent h1, .bannercontent h4{ font-size:0.889em;}
+	 #home-banner{ height:auto; padding:100px 0 100px 0; }
+	 #about-us, #wepromise, #storyboard, #our-product, #uniquness {
+    padding: 60px 0 60px 0px;
+}
+
+.step p, .icons .fab, .center, .icons, .person1.last h5{ font-size:16px;}
+.step p {
+    padding: 20px 20px;
+}
+.step-1, .step-2, .step-3, .step-4 {
+    margin-bottom: 50px;
+}
+.card-body p {
+    line-height: 16px;
+    font-size: 16px;
+}
+
+.card img{ margin-bottom:20px;}
+.card h3{ margin-bottom:12px;}
+.fa-facebook-square, .fa-linkedin, .fa-twitter-square, .fa-instagram, .card-body h3, .testimonials-text h4 {
+    font-size: 1em !important;
+    font-weight: 400;
+}
+
+
+
+	 .container{ width:90%;}
+	 .bannercontent h3 {
+    font-size: 28px;
+    line-height: 32px ;
+   
+}
+ .bannerimage{ margin-top:0;}
+ .bannerimage object{ width:180px;}
+ .bannercontent h1,.bannercontent h3,.bannercontent h4{ margin-bottom:20px ;}
+     .a-day h2.title div span{
+         font-size:30px;
+    }
+     #about-us button{
+         letter-spacing: 1px;
+         padding: 9px 15px;
+    }
+     .carousel {
+         min-height: 320px;
+    }
+     .carousel-control-next{
+         right:0;
+        bottom:-250px;
+    }
+     .carousel-control-prev{
+         left:0;
+         bottom:-250px;
+    }
+     .col-one-fifth {
+         width: 100%;
+    }
+     .testimonials-text h4 {
+         font-size: 18px;
+    }
+ .product-card{ margin-bottom:20px;}
+ .product-card::after{ content:none !important;}
+ .product-card img{ width:32px;}
+.feature_item_text1 h6, .feature_item_text1 p{ font-size:16px; line-height:20px;}
+ 
+ 
+     .testimonials-text h6 {
+         font-size: 14px;
+    }
+     h2.title {
+         margin-bottom: 50px;
+         position: static !important;
+         transform: translate(0) !important;
+    }
+     .step {
+         padding: 0;
+    }
+     #storyboard {
+         width: auto;
+         height: auto;
+    }
+     #uniquness {
+         height: auto;
+         width: auto;
+    }
+     .uniquness {
+         margin-top: 0px;
+    }
+     .product-text {
+         font-size: 18px;
+         font-weight: 400;
+    }
+	blockquote{ margin-bottom:20px;}
+	.medpara{ font-size:16px; line-height:24px; margin-bottom:20px;}
+	.smallpara{ font-size:16px; line-height:24px; margin-bottom:20px;}
+	hr{ height:2em;}
+	h3.sub-heading.mid{ margin-bottom:40px;}
+	.person1 img{ height:90px; border-width:4px; float:left; margin-right:20px;}
+	.person h4{ text-align:left; font-size:16px !important; margin-bottom:8px;}
+	.person h5{ text-align:left; font-size:14px;margin-bottom:8px;}
+	.icons > a{ text-align:left;}
+     #testimonials {
+         
+        
+         position: relative;
+         width: auto;
+         padding: 20px 0 70px 0;
+        
+    }
+     .testimonials-text h4 {
+         font-size: 20px;
+         font-weight: 300;
+    }
+     .testimonials-text h6 {
+         font-weight: 250;
+         font-size: 14px;
+    }
+     .testimonials-text {
+         padding: 20px 0px 20px 0px;
+         margin: 20px 0px 20px 0px;
+    }
+     .testimonial-names {
+         color: #fff !important;
+         padding: 20px;
+    }
+     .about-text p {
+         font-size: 20px;
+    }
+    .person1{ margin-bottom:50px;}
+	.img-wrap{ margin-bottom:20px;}
+}

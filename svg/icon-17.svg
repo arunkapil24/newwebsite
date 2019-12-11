@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 61.06 67">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #e3828a;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <title>icon</title>
+  <g id="stroked_icons" data-name="stroked icons">
+    <g>
+      <circle class="cls-1" cx="32.99" cy="33.52" r="26.57"/>
+      <line class="cls-1" x1="1.5" y1="1.5" x2="1.5" y2="65.5"/>
+      <line class="cls-1" x1="2.49" y1="52.13" x2="13.92" y2="52.13"/>
+      <line class="cls-1" x1="1.97" y1="14.41" x2="13.92" y2="14.41"/>
+    </g>
+  </g>
+</svg>

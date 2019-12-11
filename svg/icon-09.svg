@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44.75 67">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #e3828a;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <title>icon-09</title>
+  <g id="stroked_icons" data-name="stroked icons">
+    <g>
+      <line class="cls-1" x1="22.72" y1="25.67" x2="22.72" y2="37.18"/>
+      <line class="cls-1" x1="22.72" y1="41.07" x2="22.72" y2="41.11"/>
+      <line class="cls-1" x1="35.5" y1="8.14" x2="35.5" y2="8.18"/>
+      <circle class="cls-1" cx="22.72" cy="33.41" r="13.5"/>
+      <rect class="cls-1" x="1.5" y="1.5" width="41.75" height="64" rx="6.75"/>
+      <line class="cls-1" x1="19.44" y1="8.16" x2="25.31" y2="8.16"/>
+      <line class="cls-1" x1="18.22" y1="61.27" x2="26.53" y2="61.27"/>
+    </g>
+  </g>
+</svg>

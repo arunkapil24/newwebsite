@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 53.79 67">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #e3828a;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        fill: #e3828a;
+      }
+    </style>
+  </defs>
+  <title>icon</title>
+  <g id="stroked_icons" data-name="stroked icons">
+    <g>
+      <line class="cls-1" x1="1.5" y1="1.5" x2="1.5" y2="65.5"/>
+      <line class="cls-1" x1="52.29" y1="1.5" x2="52.29" y2="65.25"/>
+      <line class="cls-1" x1="1.94" y1="21.7" x2="51.39" y2="21.7"/>
+      <line class="cls-1" x1="2.4" y1="40.97" x2="51.39" y2="40.97"/>
+      <line class="cls-1" x1="1.5" y1="60.28" x2="51.39" y2="60.28"/>
+      <g>
+        <path class="cls-1" d="M9.52,5.56H22.71A1.47,1.47,0,0,1,24.18,7V21.7a0,0,0,0,1,0,0H8.05a0,0,0,0,1,0,0V7A1.47,1.47,0,0,1,9.52,5.56Z"/>
+        <rect class="cls-2" x="13.12" y="6.35" width="5.99" height="1.96"/>
+      </g>
+      <g>
+        <rect class="cls-2" x="34.57" y="6.35" width="5.99" height="1.96"/>
+        <path class="cls-1" d="M31,5.56H44.16A1.47,1.47,0,0,1,45.63,7V21.7a0,0,0,0,1,0,0H29.5a0,0,0,0,1,0,0V7A1.47,1.47,0,0,1,31,5.56Z"/>
+      </g>
+      <g>
+        <path class="cls-1" d="M9.52,27.89H44.16a1.47,1.47,0,0,1,1.47,1.47V41a0,0,0,0,1,0,0H8.05a0,0,0,0,1,0,0V29.36A1.47,1.47,0,0,1,9.52,27.89Z"/>
+        <rect class="cls-2" x="24.07" y="28.79" width="5.99" height="1.96"/>
+      </g>
+      <g>
+        <path class="cls-1" d="M9.52,48.48H22.71A1.47,1.47,0,0,1,24.18,50V60.22a0,0,0,0,1,0,0H8.05a0,0,0,0,1,0,0V50A1.47,1.47,0,0,1,9.52,48.48Z"/>
+        <rect class="cls-2" x="13.12" y="49.44" width="5.99" height="1.96"/>
+      </g>
+      <g>
+        <path class="cls-1" d="M31.06,47.14H44.25a1.47,1.47,0,0,1,1.47,1.47V60.22a0,0,0,0,1,0,0H29.59a0,0,0,0,1,0,0V48.62A1.47,1.47,0,0,1,31.06,47.14Z"/>
+        <rect class="cls-2" x="34.66" y="48.08" width="5.99" height="1.96"/>
+      </g>
+    </g>
+  </g>
+</svg>
