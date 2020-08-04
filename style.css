@@ -150,8 +150,8 @@ base pink
      /* Safari 6.0 - 9.0 */
      filter: grayscale(0%);
  }
- /* ------------*** end of COLOR by vishnu ***----------*/
- /* ------------*** beginning of alignment by vishnu ***----------*/
+ /* ------------*** end of COLOR***----------*/
+ /* ------------*** beginning of alignment***----------*/
  
  p {
      margin-bottom: 30px;
@@ -256,7 +256,9 @@ base pink
  .footer1 {
      padding-right: 30px !important;
  }
- 
+ #partner{
+     width: 100%;
+ }
  #contactus h2 {
      margin-top: -4px;
  }
@@ -725,7 +727,7 @@ base pink
      opacity: 1;
      right: 0;
  }
- /* -------------------Beginning of Sections Vish-------------------------------- */
+ /* -------------------Beginning of Sections-------------------------------- */
  
  #about-us,
  #wepromise,
@@ -777,7 +779,7 @@ base pink
      height: auto;
      width: 100%;
  }
- /* -------------------End of Sections Vish-------------------------------- */
+ /* -------------------End of Sections-------------------------------- */
  
  .mb-0 {
      padding-bottom: 0 !important;
@@ -1053,6 +1055,15 @@ base pink
  .person1 {
      display: block;
  }
+
+
+.partner img {
+   display : block;
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 50%; */
+}
+
  /*---------------**** Beginning of media query *****-----------------------*/
  
  @media only screen and (max-width:1200px) {
@@ -1082,6 +1093,13 @@ base pink
      section#uniquness .card h3,
      section#uniquness .card p {
          text-align: center;
+     }
+     .partner img {
+        display : block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 100px;
+      
      }
  }
  
@@ -1141,6 +1159,12 @@ base pink
      .person h5 {
          font-size: 20px;
      }
+     .partner img{
+        display : block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 100px;
+     }
  }
  
  @media only screen and (max-width:991px) {
@@ -1176,6 +1200,11 @@ base pink
      }
      .testimonials-text h4 {
          font-size: 1.331em !important;
+     }
+     .partner img {
+        height:150px;
+        width:200px;
+        padding:0px
      }
  }
  
@@ -1221,6 +1250,12 @@ base pink
      }
      .card-text2 {
          font-size: 18px;
+     }
+     .partner {
+        display : block;
+         margin-left: auto;
+         margin-right: auto;
+         width: 50%;
      }
  }
  
@@ -1447,5 +1482,14 @@ base pink
      }
      .img-wrap {
          margin-bottom: 20px;
+     }
+     .partner {
+        display : block;
+         margin-left: auto;
+         margin-right: auto;
+         width: 50%;
+     }
+     .buttons {
+         margin:10px;
      }
  }
